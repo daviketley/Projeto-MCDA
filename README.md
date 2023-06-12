@@ -26,7 +26,7 @@ using namespace ns3;
 int main(int argc, char* argv[]) {
   // Configuração dos parâmetros da simulação
   int numUAVs = 15;
-  int numUsers = 4000;
+  int numUsers = 3.793;
   int simTime = 10; // Tempo de simulação em segundos
 
   // Criação dos nós da rede
